@@ -89,6 +89,9 @@ $buttons: (
   .p-#{$i} {
     padding: #{$i}px;
   }
+  .pp-#{$i} {
+    padding-top: #{$i*10}px;
+  }
   .py-#{$i} {
     padding-top: #{$i}px;
     padding-bottom: #{$i}px;
