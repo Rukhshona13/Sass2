@@ -37,6 +37,14 @@
   color: rgb(228, 236, 240);
 }
 
+.bg-third1 {
+  background-color: rgb(2, 53, 79);
+}
+
+.text-third1 {
+  color: rgb(2, 53, 79);
+}
+
 .btn-primary {
   background-color: rgb(53, 175, 191);
   color: white;
